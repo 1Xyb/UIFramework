@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Hero>
+		<id>1</id>
+		<name>盖伦</name>
+	</Hero>
+	<Hero>
+		<id>2</id>
+		<name>光头</name>
+	</Hero>
+	<Hero>
+		<id>3</id>
+		<name>蛮子</name>
+	</Hero>
+	<Hero>
+		<id>4</id>
+		<name>赵信</name>
+	</Hero>
+</Root>

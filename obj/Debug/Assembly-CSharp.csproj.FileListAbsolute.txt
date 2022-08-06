@@ -1,0 +1,2 @@
+D:\bw\专业5\作业\12.9作业商城购买添加背包数量\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\bw\专业5\作业\12.9作业商城购买添加背包数量\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
